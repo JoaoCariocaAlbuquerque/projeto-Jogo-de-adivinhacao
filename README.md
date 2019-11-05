@@ -7,7 +7,7 @@ IF-ELSE para parte do jogo.
 
 WHILE para o menu.
 
-bibliotecas:
+Bibliotecas:
 
 OS para limpar os textos.
 
